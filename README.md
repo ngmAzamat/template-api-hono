@@ -1,11 +1,18 @@
-To install dependencies:
-```sh
+### Install dependencies:
+
+```bash
 bun install
 ```
 
-To run:
-```sh
+### Run:
+
+```bash
 bun run dev
 ```
 
-open http://localhost:3000
+### Check
+
+```bash
+curl -I http://localhost:4000/
+```
+
